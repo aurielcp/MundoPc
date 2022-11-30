@@ -1,3 +1,4 @@
+'''Clase de tipo orden'''
 class Orden:
     contadorOrdenes = 0
 
