@@ -1,3 +1,4 @@
+'Creacion de la clase monitor'
 class Monitor:
     contadorMonitores = 0
 
