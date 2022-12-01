@@ -1,3 +1,4 @@
+'''Creacion clase Raton'''
 from DispositivoEntrada import DispositivoEntrada
 
 class Raton(DispositivoEntrada):
