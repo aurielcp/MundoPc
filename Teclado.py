@@ -1,3 +1,4 @@
+'''Creacion de la clase teclado'''
 from DispositivoEntrada import DispositivoEntrada
 
 
